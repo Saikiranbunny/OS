@@ -1,2 +1,2 @@
 # OS
-multilevel feedback queue scheduling algo
+Using Round Robin Algorithm
